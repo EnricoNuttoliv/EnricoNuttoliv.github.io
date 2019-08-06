@@ -17,7 +17,7 @@ Has the biggest brain known to man, and here's how:
 1. He ate breadsticks
 2. He naturally has a big brain
 3. He likes to think
-4.He is a banana
+4. He is a banana
 5. He ate more breadsticks
   5. breadsticks
   5. and more breadsticks
