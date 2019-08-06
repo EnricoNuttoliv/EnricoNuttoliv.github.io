@@ -19,8 +19,8 @@ Has the biggest brain known to man, and here's how:
 3. He likes to think
 4. He is a banana
 5. He ate more breadsticks
-  5a. breadsticks
-  5b. and more breadsticks
+  - breadsticks
+  - and more breadsticks
   
 It has been proven that breadsticks make you smarter [here](https://youtu.be/Wp-OFFUlzWM)
 
