@@ -12,7 +12,7 @@ Large | Biggest
 This man right here
 
 ![Image of Big Brain]
-(https://images.app.goo.gl/XhjrB34RQosG3Wvb7)
+(profile pic.jpg)
 
 
 
