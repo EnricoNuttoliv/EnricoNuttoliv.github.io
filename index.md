@@ -13,6 +13,17 @@ This man right here
 
 ![Image of Big Brain](https://live.staticflickr.com/7302/12110532425_fa0e6022eb_b.jpg)
 
+Has the biggest brain known to man, and here's how:
+1. He ate breadsticks
+2. He naturally has a big brain
+3. He likes to think
+4.He is a banana
+5. He ate more breadsticks
+  5. breadsticks
+  5. and more breadsticks
+  
+It has been proven that breadsticks make you smarter [here](https://youtu.be/Wp-OFFUlzWM)
+
 
 
 
