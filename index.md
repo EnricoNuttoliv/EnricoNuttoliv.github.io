@@ -8,6 +8,23 @@ Brain | Size
 Small | Big
 Normal| Bigger
 Large | Biggest
+
+This man right here
+
+![Image of Big Brain]
+(https://www.flickr.com/photos/majornelson/12110532425)
+
+
+
+
+
+
+
+
+
+
+
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EnricoNuttoliv/EnricoNuttoliv.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
